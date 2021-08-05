@@ -47,7 +47,7 @@ Creating an enterprise from an account and importing existing accounts cannot be
 {: #create_enterprise_tutorial}
 {: step}
 
-Enterprises are created from an existing Subscription account. When you create the enterprise, the account is added to the enterprise hierarchy. Billing transitions to being managed by the enterprise, but its users and resources remain the same and are completely unaffected. For a complete description of account impacts, see [Creating an enterprise](/docs/account?topic=account-create-enterprise).
+Enterprises are created from an existing Subscription account. When you create the enterprise, the account is added to the enterprise hierarchy. Billing transitions change to being managed by the enterprise, but its users and resources remain the same and are completely unaffected. For a complete description of account impacts, see [Creating an enterprise](/docs/account?topic=account-create-enterprise).
 
 1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Enterprise**, and click **Create**.
 2. Enter the name of your company, such as Example Corp, to identify your enterprise.
